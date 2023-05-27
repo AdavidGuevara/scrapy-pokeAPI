@@ -1,6 +1,6 @@
-# Scrapy a PokeAPI:
+# Scrapy PokeAPI:
 
 - Scrapy series pokeApi.
-- Coneccion y guardado de los datos recolectados en una base de datos MySQL.
-- Uso de middleware para rotar aleatoriamente usuarios defenidos en settings.
-- El Programa tarda un minuto y medio aprox.
+- Connection and saving of the collected data in a MySQL database.
+- Use of middleware to randomly rotate users defined in settings.
+- The Program takes a minute and a half approx.
